@@ -1,6 +1,13 @@
 ### Hi my name is Junior Braz 👋
 
- 
+ ## I like:
+
+  Rock's 🤘🏼
+  Anime's ⚔
+  Codar 👨🏻‍💻
+  Games 🎮
+  Book's 📚
+  
   <div>
   <a href="https://github.com/juniorbraz93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorbraz93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
