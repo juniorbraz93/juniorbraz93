@@ -5,9 +5,9 @@
 <div>
  
  <ol>
+  <li> Codar 👨🏻‍💻 </li>
   <li> Rock's 🤘🏼 </li>
   <li> Anime's ⚔ </li>
-  <li> Codar 👨🏻‍💻 </li>
   <li> Games 🎮 </li>
   <li> Book's 📚 </li>
  </ol>
