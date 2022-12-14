@@ -1,4 +1,10 @@
-### Hi my name is Junior Braz 👋
+### Olá eu sou <a href="https://www.linkedin.com/in/jose-braz-junior/" > Junior Braz </a>👋
+
+<h3 align="left"> 🎓 Formação </h3>
+
+  <h5 align="left">
+    🚀 Redes de computadores  - FAVI - Instituto de Ensino Superior
+  </h5>
 
   <div>
   <a href="https://github.com/juniorbraz93">
@@ -6,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbraz93&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
- ## Technology & Tools
+ ## <h3 align="left"> 💻 Tecnologias: </h3>
   
   <div style="display: inline_block"><br>
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +24,11 @@
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <i  align="center"  height="40" width="40"  class="devicon-flask-original-wordmark"></i>
+
+ ## <h3 align="left"> ☎️ Contatos: </h3>
+
+<img align="center"  height="40" width="40" href="https://www.linkedin.com/in/jose-braz-junior/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+
+<!-- https://wa.me/5527999040472 -->
        
 </div>
