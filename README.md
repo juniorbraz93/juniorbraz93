@@ -26,7 +26,7 @@
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
  ## <h3 align="left"> ☎️ Contatos: </h3>
-<a href="https://www.linkedin.com/in/jose-braz-junior/" target="_blank ><imgalign="center"  height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/jose-braz-junior/" target="_blank ><img align="center"  height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 <!-- https://wa.me/5527999040472 -->
        
