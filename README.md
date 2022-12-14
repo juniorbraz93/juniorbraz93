@@ -25,12 +25,9 @@
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
- ## <h3 align="left"> ☎️ Contatos: </h3>
+<!--  ## <h3 align="left"> ☎️ Contatos: </h3> -->
 
-<!--   <a href="https://www.linkedin.com/in/jose-braz-junior/" > <img align="center"  height="40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a> -->
-    
-            <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-          
+<!-- https://www.linkedin.com/in/jose-braz-junior/"  -->
 
 <!-- https://wa.me/5527999040472 -->
        
