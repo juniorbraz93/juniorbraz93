@@ -27,7 +27,7 @@
 
  ## <h3 align="left"> ☎️ Contatos: </h3>
 
-<img align="center"  height="40" width="40" href="https://www.linkedin.com/in/jose-braz-junior/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+<a href="https://www.linkedin.com/in/jose-braz-junior/" ><img align="center"  height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> </a>
 
 <!-- https://wa.me/5527999040472 -->
        
