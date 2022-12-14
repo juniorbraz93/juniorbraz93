@@ -29,7 +29,7 @@
 
 <!--   <a href="https://www.linkedin.com/in/jose-braz-junior/" > <img align="center"  height="40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a> -->
     
-            <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+            <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
           
 
 <!-- https://wa.me/5527999040472 -->
