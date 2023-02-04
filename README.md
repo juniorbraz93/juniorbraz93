@@ -1,6 +1,6 @@
 ### Olá eu sou <a href="https://www.linkedin.com/in/jose-braz-junior/" > Junior Braz </a>👋
 
-<h3 align="left"> Sobre: </h3>
+<h3 align="left"> 🧑‍💻 Sobre: </h3>
 <p>
  Atualmente atuo com desenvolvimento Full Stack, Mobile utilizando JavaScript, </br>
   TypeScript, HTML, CSS, GIT, (GraphQL) ou API REST em tecnologias como NodeJS, ReactJS,</br>
