@@ -11,7 +11,7 @@
 <h3 align="left"> 🎓 Formação </h3>
 
   <h5 align="left">
-    🚀 Redes de computadores  - FAVI - Instituto de Ensino Superior
+    🚀 Redes de computadores  - FAVI - Instituto de Ensino Superior </br>
     🚀 Pós-graduação Lato Sensu - Especialização Inteligência Artificial e Machine Learning  - Anhanguera Educacional
   </h5>
 
