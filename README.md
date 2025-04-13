@@ -3,7 +3,7 @@
 <h3 align="left"> 🧑‍💻 Sobre: </h3>
 <p>
  Atualmente atuo com desenvolvimento Full Stack, Mobile utilizando JavaScript, </br>
-  TypeScript, HTML, CSS, GIT, (GraphQL) ou API REST em tecnologias como NodeJS, ReactJS,</br>
+  TypeScript, Python, HTML, CSS, GIT, (GraphQL) ou API REST em tecnologias como NodeJS, ReactJS,</br>
   React Native. 
 </p>
 
@@ -12,6 +12,7 @@
 
   <h5 align="left">
     🚀 Redes de computadores  - FAVI - Instituto de Ensino Superior
+    🚀 Pós-graduação Lato Sensu - Especialização Inteligência Artificial e Machine Learning  - Anhanguera Educacional
   </h5>
 
 <div>
