@@ -37,10 +37,10 @@
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg">
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/iconsinsomnia/insomnia-original.svg">
-  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/postman/postman-original.svg">
-  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/prisma/prisma-original.svg">
-  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/git/git-original.svg">
+  <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+  <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+  <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
  ## <h3 align="left"> ☎️ Contatos: </h3>
     
