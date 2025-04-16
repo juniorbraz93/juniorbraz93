@@ -33,7 +33,9 @@
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg">
+  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg">
+  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img align="center"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg">
 
  ## <h3 align="left"> ☎️ Contatos: </h3>
     
